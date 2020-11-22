@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\eclipseDemo\Nowy folder\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2171868171.index
+\thrillioweb\src
