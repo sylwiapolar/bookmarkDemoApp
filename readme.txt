@@ -1,0 +1,1 @@
+Project was done by myself as an excercise in course https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/
